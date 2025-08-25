@@ -9,8 +9,7 @@ This is a small personal project where I modelled a simple RC low-pass filter in
 - Input source: V1 (AC amplitude = 1)
 
 ## Circuit diagram
-Placeholder: insert the schematic image here  
-Image filename suggestion: Images/rc_lowpass_schematic.png
+<img width="1920" height="918" alt="Main Circuit" src="https://github.com/user-attachments/assets/e1839066-f2f4-4b4e-972d-4dc73096e05e" />
 
 ## Simulation setup
 - Simulator: LTSpice  
