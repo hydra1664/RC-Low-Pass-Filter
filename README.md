@@ -33,7 +33,7 @@ This is a small personal project where I modelled a simple RC low-pass filter in
 - After zooming in and finding the closest point on the plot: -3.0007225 dB at 337.32842 kHz.  
 - These results are consistent with the expected behaviour of an RC low-pass filter and closely match theoretical predictions.
 
-## Theoretical note (short)
+## Theoretical note
 For a simple RC low-pass filter the cutoff frequency (fc) is given by:
 fc = 1 / (2 * pi * R * C)
 
